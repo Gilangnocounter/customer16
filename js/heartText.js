@@ -11,7 +11,7 @@ export class HeartText {
 
         // Configuration options
         this.config = {
-            text: 'Hi Rienjani It all started with a casual chat and now you mean so much to me. Don\'t go away again.',
+            text: 'Hi Rienjani It all started with a casual chat\nand now you mean so much to me. Don\'t go away again.',
             size: 20,
             height: 2,
             curveSegments: 12,
